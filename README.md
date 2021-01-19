@@ -6,3 +6,10 @@ Token: LAVA (HRC-20)
 
 
 [View Audit Report](https://github.com/Lava-Swap/lava-audit-report/blob/main/Smart%20contract%20security%20audit%20report%20-%20Lava.pdf)
+
+
+<object data="https://github.com/Lava-Swap/lava-audit-report/blob/main/Smart%20contract%20security%20audit%20report%20-%20Lava.pdf" type="application/pdf" >
+    <embed src="https://github.com/Lava-Swap/lava-audit-report/blob/main/Smart%20contract%20security%20audit%20report%20-%20Lava.pdf">
+        <p></p>
+    </embed>
+</object>
